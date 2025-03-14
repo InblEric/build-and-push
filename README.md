@@ -14,6 +14,8 @@ pip install -r requirements.txt
 flask --app hello run
 ```
 
+Demo app should now be accessible at `http://localhost:5000` from your browser.
+
 ## Build and run docker image locally
 
 ```sh
